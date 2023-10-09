@@ -1,0 +1,15 @@
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\bin\Debug\net6.0\Example002_hellouser.exe
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\bin\Debug\net6.0\Example002_hellouser.deps.json
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\bin\Debug\net6.0\Example002_hellouser.runtimeconfig.json
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\bin\Debug\net6.0\Example002_hellouser.dll
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\bin\Debug\net6.0\Example002_hellouser.pdb
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\Example002_hellouser.csproj.AssemblyReference.cache
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\Example002_hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\Example002_hellouser.AssemblyInfoInputs.cache
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\Example002_hellouser.AssemblyInfo.cs
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\Example002_hellouser.csproj.CoreCompileInputs.cache
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\Example002_hellouser.dll
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\refint\Example002_hellouser.dll
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\Example002_hellouser.pdb
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\Example002_hellouser.genruntimeconfig.cache
+C:\Users\gbeng\OneDrive\Рабочий стол\geekbrains\5137\GitPullRequestNew\examples\example001_helloConsole\Example002_hellouser\obj\Debug\net6.0\ref\Example002_hellouser.dll
